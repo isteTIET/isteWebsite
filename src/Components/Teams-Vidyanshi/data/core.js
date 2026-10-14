@@ -1,6 +1,6 @@
 const core = [
     { image: "/Core/Gauri.jpg", name: "Gauri Goyal", linkedin: "https://www.linkedin.com/in/gauri-goyal-11475737a/" },
-  { image: "/Core/Vidyanshi.png", name: "Vidyanshi Singh", linkedin: "https://www.linkedin.com/in/vidyanshi-singh-3570a3362/" },
+  { image: "/Core/Ayush.jpeg", name: "Ayush Singla", linkedin: "https://www.linkedin.com/in/ayushs206/" },
   { image: "/Core/Armaan Gupta.jpeg", name: "Armaan Gupta", linkedin: "https://www.linkedin.com/in/armaan-gupta67/" },
  
   { image: "/Core/Lakshita.jpg", name: "Lakshita Sharma", linkedin: "https://linkedin.com" },
@@ -8,9 +8,9 @@ const core = [
   { image: "/Core/Rishita.jpeg", name: "Rishita Jain", linkedin: "https://www.linkedin.com/in/rishita-jain-4a624838b/" },
    { image: "/Core/BHavya.jpeg", name: "Bhavya Goyal", linkedin: "https://www.linkedin.com/in/bhavyagoyal07/" },
   { image: "/Core/Ihit.jpg", name: "Ihit", linkedin: "https://www.linkedin.com/in/ihit-%E2%80%8B-3269392a7/" },
-  { image: "/Core/Yugamdeep Goyal.jpg", name: "Yugamdeep Goyal", linkedin: "https://www.linkedin.com/in/yugamdeep-goyal-bb765633a/" },
+  { image: "/Core/Vrinda.jpeg", name: "Vrinda Taneja", linkedin: "https://www.linkedin.com/in/vrinda-taneja-a62419392/?isSelfProfile=false" },
   { image: "/Core/Rumani.jpg", name: "Rumani", linkedin: "https://www.linkedin.com/in/rumani-539a7335b/" },
-  { image: "/Core/Harshil.jpg", name: "Harshil Madaan", linkedin: "https://www.linkedin.com/in/harshil-madaan-b264bb37a/" },
+  { image: "/Core/Saksham.jpeg", name: "Saksham Mahajan", linkedin: "https://www.linkedin.com/in/saksham-mahajan-447230308/" },
   { image: "/Core/mohit.jpg", name: "Mohit Kumra", linkedin: "https://www.linkedin.com/in/mohit-kumra-74326537a/" },
   { image: "/Core/Supurna.jpeg", name: "Supurna Mukhopadhyay", linkedin: "https://www.linkedin.com/in/supurna-mukhopadhyay-91ba13284/" },
   // { image: "", name: "Hardik Trikha", linkedin: "https://www.linkedin.com/in/trikhardik/" },
